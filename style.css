@@ -1,7 +1,13 @@
 @import url("fontawesome-all.min.css");
+@import url("https:www.fonts.googleapis.com/css?family=Source+Sans+Pro:300");
+@import url("https:www.upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/16666638381581911800-512.png");
+@import url("img src="https:www.i.pinimg.com/474x/0e/eb/d2/0eebd23f6fbe50ec7d56629d7eb85683.jpg");
+/* Icon (alt) */
+@import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300");
-@import url("https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/16666638381581911800-512.png");
-@import url("img src="https://i.pinimg.com/474x/0e/eb/d2/0eebd23f6fbe50ec7d56629d7eb85683.jpg");
+*/
+  
+
 /* Icon (alt) */
 
 	html, body, div, span, applet, object,
@@ -63,14 +69,6 @@
 		border: 0;
 		padding: 0;
 	}
-
-	input, select, textarea {
-		-moz-appearance: none;
-		-webkit-appearance: none;
-		-ms-appearance: none;
-		appearance: none;
-	}
-
 /* Basic */
 
 	@media screen and (max-width: 480px) {
@@ -87,17 +85,6 @@
 
 	*, *:before, *:after {
 		box-sizing: inherit;
-	}
-
-	body.is-preload *, body.is-preload *:before, body.is-preload *:after {
-		-moz-animation: none !important;
-		-webkit-animation: none !important;
-		-ms-animation: none !important;
-		animation: none !important;
-		-moz-transition: none !important;
-		-webkit-transition: none !important;
-		-ms-transition: none !important;
-		transition: none !important;
 	}
 
 	html {
@@ -172,22 +159,6 @@
 				line-height: 1.75;
 			}
 
-		}
-
-	a {
-		-moz-transition: color 0.2s ease, border-color 0.2s ease;
-		-webkit-transition: color 0.2s ease, border-color 0.2s ease;
-		-ms-transition: color 0.2s ease, border-color 0.2s ease;
-		transition: color 0.2s ease, border-color 0.2s ease;
-		color: inherit;
-		text-decoration: none;
-	}
-
-		a:before {
-			-moz-transition: color 0.2s ease, text-shadow 0.2s ease;
-			-webkit-transition: color 0.2s ease, text-shadow 0.2s ease;
-			-ms-transition: color 0.2s ease, text-shadow 0.2s ease;
-			transition: color 0.2s ease, text-shadow 0.2s ease;
 		}
 
 		a:hover {
