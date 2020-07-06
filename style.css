@@ -3,9 +3,6 @@
 @import url("https://.upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/16666638381581911800-512.png");
 @import url("img src="https://.i.pinimg.com/474x/0e/eb/d2/0eebd23f6fbe50ec7d56629d7eb85683.jpg");
 
-
-/* Icon (alt) */
-header {
 	html, body, div, span, applet, object,
 	iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 	pre, a, abbr, acronym, address, big, cite,
@@ -1070,5 +1067,4 @@ header {
   font-weight: 300;
   src: local('Source Sans Pro Light'), local('SourceSansPro-Light'), url(https://fonts.gstatic.com/s/sourcesanspro/v13/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdu3cOWxw.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
 }
